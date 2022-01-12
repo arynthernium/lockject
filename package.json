@@ -1,0 +1,23 @@
+{
+  "name": "@arynthernium/lockject",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Locked Javascript objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arynthernium/lockject.git"
+  },
+  "author": "arynthernium",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/arynthernium/lockject/issues"
+  },
+  "homepage": "https://github.com/arynthernium/lockject#readme",
+  "dependencies": {
+    "equals": "^1.0.5"
+  }
+}
